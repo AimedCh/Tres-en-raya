@@ -1,4 +1,6 @@
 # Proyecto: Tres en Raya (Tic-Tac-Toe) 🎮
+<img width="922" alt="image" src="https://github.com/user-attachments/assets/d2acf08c-50e5-4bb1-a660-649ccb8ce975" />
+
 
 Este es un proyecto simple para jugar al **Tres en Raya** (también conocido como **Tic-Tac-Toe**). El juego está realizado utilizando **HTML**, **CSS**, **JavaScript** y **Bootstrap**. A continuación, se describen los archivos que componen este proyecto.
 
